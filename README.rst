@@ -1,5 +1,5 @@
 ########################
-Create and View Graphics
+Create and View Image in ZINC
 ########################
 
 This tutorial example shows how to create basic graphics to visualise an image in OpenCMISS-Zinc, and how to view them
