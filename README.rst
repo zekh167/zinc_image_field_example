@@ -27,5 +27,5 @@ example script with::
 
 You should see a window containing a graphical visualisation of an image as in the following figure:
 
-.. figure:: sample.png
+.. figure:: src/zinc_image_field_example/sample.png
   :align: center
