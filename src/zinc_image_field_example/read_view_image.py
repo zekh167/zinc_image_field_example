@@ -1,3 +1,11 @@
+"""
+OpenCMISS-Zinc View Image tutorial example
+
+A minimal graphical application that loads an image into a texture map and views
+graphics representing it.
+
+"""
+
 import sys
 from PySide import QtGui
 from zinc_view_graphics_ui import Ui_ZincViewGraphics
