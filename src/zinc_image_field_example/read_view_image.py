@@ -187,7 +187,7 @@ class ZincViewImage(QtGui.QMainWindow):
 def main():
     app = QtGui.QApplication(sys.argv)
 
-    image_filename = 'C:\\Users\\zekh167\\Desktop\\Stellate-documentation\\c.png'
+    image_filename = 'sample.png'
     zinc_view_image = ZincViewImage(image_filename)
     zinc_view_image.create_graphics()
     zinc_view_image.show()
